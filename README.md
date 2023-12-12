@@ -1,5 +1,5 @@
-<a href="https://drive.google.com/uc?export=view&id=1MITwfU4Nd-_3nM4Ccl_6VtaEcl5FYHt4">
-  <img src="https://drive.google.com/uc?export=view&id=1MITwfU4Nd-_3nM4Ccl_6VtaEcl5FYHt4" style="width: 1584px; max-width: 100%; 
+<a href="https://drive.google.com/uc?export=view&id=16fGDIjUJptNr4Y36QDZ8nbigwqAdP03O">
+  <img src="https://drive.google.com/uc?export=view&id=16fGDIjUJptNr4Y36QDZ8nbigwqAdP03O" style="width: 1584px; max-width: 100%; 
   height: 396" align="center" title="Data Scientist" /></a>   
   
 <h1 align="center">Hi 👋, I'm Jesús Castillo</h1>
