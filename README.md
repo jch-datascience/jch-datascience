@@ -2,7 +2,7 @@
   <img src="https://drive.google.com/uc?export=view&id=16fGDIjUJptNr4Y36QDZ8nbigwqAdP03O" style="width: 1584px; max-width: 100%; 
   height: 396" align="center" title="Data Scientist" /></a>   
   
-<h1 align="center">Hi 👋, I'm Jesús Castillo</h1>
+<h1 align="center">Hi! 👋, I'm Jesús Castillo</h1>
 <h3 align="center">A passionate Data Science aspirant from Chile</h3>
 
 - 🌱 I’m currently learning **Machine Learning and enhancing my Python skills**
